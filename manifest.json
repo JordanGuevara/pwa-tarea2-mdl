@@ -1,0 +1,15 @@
+{
+  "name": "PWA Boilerplate",
+  "short_name": "PWAStart",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f51b5",
+  "icons": [
+    {
+      "src": "assets/icons/store.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
