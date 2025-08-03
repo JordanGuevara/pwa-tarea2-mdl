@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 
-## Imagenes de demostración
-
+## Demostración
+Ver en ejecución el proyecto:
 [![Ver demo](https://img.shields.io/badge/ver-demo-0d47a1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jordanguevara.github.io/pwa-tarea2-mdl/)
 
